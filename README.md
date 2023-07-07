@@ -17,7 +17,7 @@ A page using the github API to fetch users.
 
 ### Links
 
-- URL: [Search User][([https://wall-github-api-page.netlify.app/](https://wall-github-api-page.netlify.app/))](https://wall-github-api-page.netlify.app/)
+- URL: [Search User]:[([https://wall-github-api-page.netlify.app/](https://wall-github-api-page.netlify.app/))]
 
 ## My process
 
