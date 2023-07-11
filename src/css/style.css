@@ -121,6 +121,17 @@ main {
   line-height: 23px;
 }
 
+.container .profile-data .info .follow {
+  display: flex;
+  justify-content: center;
+}
+
+.container .profile-data .info .follow p{
+  margin: 8px;
+  font-size: 13px;
+  font-weight: 700;
+}
+
 /* REPOSITORIES */
 
 .container .profile-data .repositories h2{
