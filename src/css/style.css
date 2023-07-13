@@ -132,6 +132,17 @@ main {
   font-weight: 700;
 }
 
+/* EVENTS */
+
+.container .profile-data .events h2 {
+  margin-bottom: 30px;
+  text-align: center;
+}
+
+.container .profile-data .events .event-name {
+  font-weight: 700;
+}
+
 /* REPOSITORIES */
 
 .container .profile-data .repositories h2{
