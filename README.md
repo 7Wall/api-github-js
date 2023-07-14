@@ -15,9 +15,20 @@
 
 A page using the github API to fetch users.
 
+### New search information
+
+![](./src/screenshots/screenshot-7.png)
+Followers and folowings
+
+![](./src/screenshots/screenshot-5.png)
+Last events
+
+![](./src/screenshots/screenshot-6.png)
+Repositories forks, stars, watcher and languages.
+
 ### Links
 
-- URL: [Search User]:[([https://wall-github-api-page.netlify.app/](https://wall-github-api-page.netlify.app/))]
+- [Search User](https://githubapi-page-wall.netlify.app)
 
 ## My process
 
