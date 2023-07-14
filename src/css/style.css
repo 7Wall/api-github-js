@@ -170,6 +170,24 @@ main {
   color: #fff
 }
 
+
+.container .profile-data .repositories ul li a .info {
+  font-size: 12px;
+  display: flex;
+  justify-content: center;
+}
+
+.container .profile-data .repositories ul li a .info span {
+  margin: 3px;
+  padding: 3px 5px;
+  width: 65px;
+  background-color: #4946f0;
+  color: #ffffff;
+  border-radius: 7px;
+  text-align: center;
+  border: solid 1px #000;
+}
+
 .container .profile-data.hide{
   display: none;
 }
